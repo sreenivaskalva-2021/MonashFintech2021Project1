@@ -5,3 +5,17 @@ https://pysimplegui.readthedocs.io/en/latest/
 
 Installing Conda Pysimplgui
 conda install -c conda-forge pysimplegui
+
+
+
+
+Financial portfolio optimization (Installing pyportfolioopt)  
+pip install PyPortfolioOpt
+https://pypi.org/project/pyportfolioopt/
+A Solver GLPK_MI  --> For asset allocation 
+conda install -c conda-forge cvxopt
+
+
+Yahoo! Finance market data download
+pip install yfinance
+https://pypi.org/project/yfinance/
