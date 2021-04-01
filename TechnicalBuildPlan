@@ -5,6 +5,9 @@ Step 2: Information Gathering: Use Quandl for getting Reserve Bank of Australia 
 Step 3: 3.1: Information Gathering: Build a UI (using a Python Package) for entering input paramters such as weights, and the amount of investment.
         3.2: FOr consideration in future: if the stock symbol is a user input / or pre determined by the team.
 Step 4: Processing: 1) Build the Montecarlo simulation for the next 10 years return
+        Processing: 2) Build Efficient Frontier suggested weighting and use Montecarlo to simulate for the next 10 years return
+        Processing: 3) Build what investment return would look like based on bank's interest rate
+        Processing: 4) Compare outcomes of 3 scenarios modelled
 Step 5: Output - Visual Graphs:
         <TBC. 6-8 graphs are required at a minimum for project completion>
         
