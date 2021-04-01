@@ -12,8 +12,10 @@ conda install -c conda-forge pysimplegui
 Financial portfolio optimization (Installing pyportfolioopt)  
 pip install PyPortfolioOpt
 https://pypi.org/project/pyportfolioopt/
+
 A Solver GLPK_MI  --> For asset allocation 
 conda install -c conda-forge cvxopt
+https://cvxopt.org/install/
 
 
 Yahoo! Finance market data download
