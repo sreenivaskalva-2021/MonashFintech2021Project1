@@ -1,0 +1,16 @@
+The following document outlines the plan or approach to undertaking the project:
+
+Step 1: Information Gathering: Get Yahoo Finance Data for ASX20 Stocks, and for the period of last 10 years. The information will be stored in Dataframes.
+Step 2: Information Gathering: Use Quandl for getting Reserve Bank of Australia Interest (Lending) Rates 
+Step 3: 3.1: Information Gathering: Build a UI (using a Python Package) for entering input paramters such as weights, and the amount of investment.
+        3.2: FOr consideration in future: if the stock symbol is a user input / or pre determined by the team.
+Step 4: Processing: 1) Build the Montecarlo simulation for the next 10 years return
+Step 5: Output - Visual Graphs:
+        <TBC. 6-8 graphs are required at a minimum for project completion>
+        
+Step 1: Shanshan 
+Step 2: Sreeni
+Step 3.1: Desmond / Chris
+Step 3.2: Shanshan
+Step 4: TBC
+Step 5: TBC
