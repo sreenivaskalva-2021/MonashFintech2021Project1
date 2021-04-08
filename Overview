@@ -1,10 +1,22 @@
-Test
-Monsah Uni - Fintech Bootcamp – Feb 2021 - Project#1
+Monsah University - Fintech Bootcamp, Feb 2021 Batch - Class Project # 1
 
 Team name: Yahooooo!
-Members: Chris Chan, Shanshan Zhang, Sreeni Kalva, Cuong, Hemal
+Members: Chris Chan, Shanshan Zhang, Sreenivas Kalva, Cuong Phan, Hemal
 
-1) Brainstorm possible project ideas
+Project Objective: Yahooooo! team project will undertake a portfolio assessment of 4 portfolio scenarios and provides a recommendation based on higher ROI. 
+We will assume that the user initial capital is A$10K, and based on 10-year historial returns will project his investment return in the next 10-years.
+
+•	Portfolio 1: User creates his/her own ASX stock portfolio. The user will be able to select stock tickers.
+•	Portfolio 2: Algorithm optimised stock portfolio (using python package EfficientXXXXXXXXXXXX)
+•	Portfolio 3: (What if) User decides to not invest but benefit from bank provided interest rates. In this scenario, we will use RBA cash rates and add 1% for getting the savings rate
+•	Portfolio 4: Crypto Asset - If the user invested wants to invest $10K in Crypto (ETH/BTC) equally… and project invesement value in 10-years based on 10 years historical ROI
+
+Useful resources:
+•	https://rapidapi.com/blog/how-to-use-the-yahoo-finance-api/
+•	https://www.quandl.com/data/RBA-Reserve-Bank-of-Australia/documentation
+
+NOTES:
+Brainstorm possible project ideas
         a.	Portfolio Analysis of 2-3 portfolios and recommend a best performing one
         b.	Using Publicly available Interest Rate APIs of Reserve Bank of Australia (from Quandl) 
         c.	Australia Bureau of Statistics – To obtain Australia citizen insights and plot it based on geography, education, country of origin etc.
@@ -24,3 +36,27 @@ Outcome of the discussion:
 Useful resources:
 •	https://rapidapi.com/blog/how-to-use-the-yahoo-finance-api/
 •	https://www.quandl.com/data/RBA-Reserve-Bank-of-Australia/documentation
+
+WORK SPLIT
+April 6
+	CHRIS  / Portfolio 1:
+		- UI for User to Select the stocks
+                - Portfolio 1 Historical ROI … what is the current value of $10K invested in this portfolio 10-years ago.
+	SHANSHAN / Portfolio 2:
+		- Portfolio 2 Historical ROI … i.e what is the current value of $10K invested in this portfolio 10-years ago.
+	SREENI / Portfolio 3
+		- Portfolio 3 Historical ROI … i.e what is the current value of $10K  in the bank account…
+	CUONG / Portfolio 4:
+		 - Portfolio 4 Historical ROI … i.e what is the current value of $10K  in the bank account…
+        HEMAL to document Project Description / Research
+
+Graphs to be done later
+
+	
+
+		
+		
+
+
+
+
