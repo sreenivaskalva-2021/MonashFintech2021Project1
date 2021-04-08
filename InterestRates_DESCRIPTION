@@ -1,0 +1,7 @@
+Prtfolio growth using bank interest rates
+
+One of the scenario is for an investor who isn’t investing and is only comfortable with bank interest rates.  This is a “loss opportunity” scenario to show as to how much a user (citizen) is missing by not investing and keeping the cash in the bank.  
+
+Using Quandl package, we retrieved 10-year worth of Reserve Bank of Australia Interest rates.  Using this data, we used mean interest rate from the historical period to project the returns (interest amount). We used compounded interest rate on a month-by-month basis. 
+
+(Note: We tried to use a forecasting model such as ARIMA tp forecast the interest rates for next years, but unfortunately we ran out of time due to technical issues)
